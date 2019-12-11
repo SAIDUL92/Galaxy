@@ -1,0 +1,364 @@
+    /* Normal desktop :1200px. */
+    
+    @media (min-width: 1200px) and (max-width: 1500px) {
+        .header__menu nav ul li {
+            margin-left: 50px;
+        }
+        .header__icon {
+            margin-left: 70px;
+        }
+        .signup-info h3 {
+            font-size: 47px;
+        }
+        .signup-info h3 {
+            margin-top: 50px;
+        }
+        .footer-widget h4.footer-widget-title {
+            font-size: 30px;
+        }
+        .footer-widget ul li a {
+            font-size: 19px;
+        }
+        .slider__content a.btn-info {
+            width: 270px;
+            height: 52px;
+        }
+        /* --------------
+        details-css here
+         ----------------------*/
+        .Reading-article-area {
+            padding: 80px 105px 100px;
+        }
+        .blog-slider-active.nave-style .owl-nav .owl-prev {
+            left: -43px;
+        }
+        .blog-slider-active.nave-style .owl-nav .owl-next {
+            right: -43px;
+        }
+    }
+    /* Normal desktop :992px. */
+    
+    @media (min-width: 992px) and (max-width: 1200px) {
+        .header.header {
+            padding: 0 50px;
+        }
+        .header__icon {
+            margin-left: 40px;
+        }
+        .header__menu nav ul li {
+            margin-left: 48px;
+        }
+        .slider__content a.btn-info {
+            width: 280px;
+            height: 52px;
+        }
+        .signup-info h3 {
+            font-size: 38px;
+            margin-top: 35px;
+        }
+        .signup-info p {
+            color: #fff;
+            margin-bottom: 25px;
+            font-size: 16px;
+        }
+        .footer-top {
+            padding: 80px 40px;
+        }
+        .footer-widget ul li a {
+            font-size: 18px;
+        }
+        /* details-css here */
+        .details-wrapper h4 {
+            font-size: 34px;
+        }
+        .Reading-slider-active.nave-style .owl-nav .owl-prev {
+            left: -60px;
+        }
+        .Reading-slider-active.nave-style .owl-nav .owl-next {
+            right: -57px;
+        }
+        .blog-slider-active.nave-style .owl-nav .owl-prev {
+            left: -29px;
+        }
+        .blog-slider-active.nave-style .owl-nav .owl-next {
+            right: -27px;
+        }
+        .Reading-article-area {
+            padding: 80px 50px 100px;
+        }
+        .footer-widget h4.footer-widget-title {
+            color: #000000;
+            font-size: 26px;
+            font-weight: 900;
+        }
+        .reading-signup-info h3 {
+            color: #ffffff;
+            font-size: 40px;
+            line-height: 1;
+            margin-bottom: 45px;
+            font-family: 'Open Sans', sans-serif;
+        }
+        .featured-text h3 {
+            font-size: 19px;
+            line-height: 30px;
+            color: #fff;
+            text-transform: inherit;
+            margin: 25px 0;
+        }
+    }
+    /* Tablet desktop :768px. */
+    
+    @media (min-width: 768px) and (max-width: 991px) {
+        .header.header {
+            padding: 0 20px;
+        }
+        .header__icon {
+            margin-left: 20px;
+        }
+        .header__menu nav ul li {
+            margin-left: 17px;
+        }
+        .slider__content a.btn-info {
+            width: 252px;
+            height: 52px;
+        }
+        .pl-120 {
+            padding-left: 30px;
+        }
+        .signup-info h3 {
+            font-size: 28px;
+            margin-top: 25px;
+        }
+        .footer-widget h4.footer-widget-title {
+            font-size: 22px;
+        }
+        .signup-info p {
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+        .footer-top {
+            padding: 120px 50px;
+        }
+        .Reading-article-area {
+            padding: 80px 50px 100px;
+        }
+        .featured-text {
+            padding: 0 5px;
+            text-align: justify;
+        }
+        .featured-text h3 {
+            font-size: 19px;
+            line-height: 35px;
+            margin: 20px 0;
+        }
+        .single-featured h2 {
+            font-size: 32px;
+            font-family: 'open sans';
+            font-weight: 800;
+            margin-bottom: 40px;
+        }
+        .reading-signup-info h3 {
+            font-size: 34px;
+            margin-bottom: 16px;
+            margin-top: 20px;
+        }
+    }
+    /* small mobile :320px. */
+    
+    @media (max-width: 767px) {
+        .header.header {
+            padding: 0px 20px;
+            padding-top: 10px;
+        }
+        .header__icon {
+            margin-left: 0px;
+            position: absolute;
+            top: -90px;
+            right: 0;
+        }
+        .slider__content h1 {
+            font-size: 25px;
+            margin-bottom: 0;
+        }
+        .slider__content p {
+            font-size: 12px;
+        }
+        .slider__content a.btn-info {
+            width: 200px;
+            height: 43px;
+            padding-top: 4px;
+        }
+        .slider-logo {
+            margin-top: 50px;
+        }
+        .curriculum-area {
+            padding: 80px 0 60px 0;
+        }
+        .title-section {
+            padding-bottom: 60px;
+        }
+        .title-section span::before {
+            height: 83px;
+            top: -120px;
+        }
+        .title-section span {
+            font-size: 25px;
+        }
+        .title-section h2 {
+            font-size: 30px;
+        }
+        .pl-120 {
+            padding-left: 15px;
+        }
+        .signup-info-bg {
+            height: 300px;
+            width: 100%;
+        }
+        .signup-info h3 {
+            font-size: 22px;
+            margin-top: 55px;
+        }
+        .signup-image img {
+            height: 100%;
+        }
+        .signup-image {
+            margin-top: 50px;
+        }
+        .signup-info p {
+            color: #fff;
+            margin-bottom: 14px;
+        }
+        .footer-top {
+            padding: 50px 0;
+        }
+        .signup-image {
+            margin-top: 50px;
+            height: 300px;
+            width: 100%;
+        }
+        .signup-info form {
+            margin: 0 30px;
+        }
+        .footer-widget h4.footer-widget-title {
+            font-size: 21px;
+        }
+        .social-icons a i {
+            font-size: 22px;
+            margin: 0 10px;
+        }
+        .fooetr-bottom {
+            padding: 30px 0;
+        }
+        .footer-widget ul li a {
+            font-size: 20px;
+        }
+        .fooeter-bottom-left {
+            margin-bottom: 15px;
+        }
+        .details-wrapper {
+            padding: 40px 15px 50px 15px;
+        }
+        .details-wrapper h4 {
+            font-size: 17px;
+            margin-bottom: 25px;
+            line-height: 28px;
+        }
+        .details-wrapper img {
+            margin-bottom: 25px;
+        }
+        .details-wrapper p {
+            text-align: left;
+        }
+        /* details css here */
+        .details-slider-content h3 {
+            margin-bottom: 0;
+            padding: 0 25px;
+        }
+        .Reading h3 {
+            line-height: 34px;
+            margin-bottom: 4px;
+            font-size: 22px;
+        }
+        .Reading-article-area {
+            padding: 80px 0 100px;
+        }
+        .Reading-article-title {
+            padding-bottom: 30px;
+        }
+        .Reading-article-title h3 {
+            font-size: 50px;
+        }
+        .single-featured h2 {
+            font-size: 28px;
+        }
+        .featured-text h3 {
+            font-size: 19px;
+            line-height: 32px;
+            margin: 15px 0;
+        }
+        .featured-text {
+            padding: 0 10px;
+            text-align: justify;
+        }
+        .Resource-title span {
+            text-align: center;
+        }
+        .Resource-title h3 {
+            font-size: 50px;
+            text-align: center;
+        }
+        .reading-signup-info h3 {
+            font-size: 29px;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        .reading-signup-info p {
+            text-align: justify;
+        }
+        .single-featured {
+            padding-bottom: 40px;
+            text-align: center;
+        }
+    }
+    /* Large Mobile :576px. */
+    
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+        .header.header {
+            padding: 0px 40px;
+            padding-top: 10px;
+        }
+        .slider__content h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .slider__content p {
+            font-size: 12px;
+        }
+        .slider__content a.btn-info {
+            width: 200px;
+            height: 43px;
+            padding-top: 3px;
+        }
+        .signup-info-bg {
+            height: auto;
+            width: 100%;
+        }
+        .signup-image {
+            margin-top: 50px;
+            height: auto;
+            width: 100%;
+        }
+        .social-icons a i {
+            margin-left: 10px;
+        }
+        .Reading-article-area {
+            padding: 80px 30px 100px;
+        }
+        .Resource-title span {
+            text-align: left;
+        }
+        .Resource-title h3 {
+            font-size: 50px;
+            text-align: left;
+        }
+    }
